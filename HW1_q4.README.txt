@@ -1,0 +1,12 @@
+HW1_q4.py is a program which can get the r(k) for HW1 question 4.
+datamining_hw1_q4.m is a program which can plot the result that after running r(k) from HW1_q4.py
+
+For HW1_q4.py, it should be run in server.
+Input: python HW1_q4.py -n [number of values(100/1000/10000)] -i [iterator]
+Output: the list of r(k)
+Sample usage: python HW1_q4.py -n 100 -i 10
+
+For datamining_hw1_q4.m, it should run in Matlab.
+Input: the result that after running HW1_q4.py
+Output: a r(k) vs. k figure which attached in the q4 folder called "datamining_hw1_q4_figure.jpg"
+
